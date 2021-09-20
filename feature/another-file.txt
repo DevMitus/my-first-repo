@@ -1,0 +1,3 @@
+Just antother file2.txt
+
+This file was modified loacally
