@@ -1,1 +1,3 @@
-this is a new file write from the console
+this is a new file write from the console.
+
+This line is added to see de user commit.
